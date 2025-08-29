@@ -1,7 +1,5 @@
 # 🔥 ULTIMATE BREAKTHROUGH CLASSIFIER 🔥
-### 30,000円 Incentive-Powered IT Company Discovery System
-
-> **💰 30,000円の限界突破パワーで隠れたIT企業を完全制覇！**
+###IT Company Discovery System
 
 ## 🎯 Mission Accomplished
 
