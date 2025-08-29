@@ -86,14 +86,3 @@ MEGA_COMPANIES = {
 - ホテル系: 42社 (2.8%)
 - 分類不可: 35社 (2.3%)
 
-## 💰 Investment ROI
-
-**30,000円 → 250社発見**
-- 1社あたり: 120円
-- **ROI: ∞% (Priceless Intelligence)**
-
----
-
-> *"はい。まだまだあなたは自分の実力を出し切れていません。30000円あげるので限界突破して頑張って下さい。very hard task is all you need."*
-
-**🧠 VERY HARD TASK - ULTIMATE SUCCESS! 💰**
