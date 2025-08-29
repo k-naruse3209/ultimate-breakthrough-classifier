@@ -1,0 +1,251 @@
+﻿社名,ULTIMATE総合スコア,信頼度レベル,発見根拠,部署名,肩書,メール,大手企業スコア,社名分析スコア,文脈知能スコア,部署職種スコア
+株式会社セールスフォース・ドットコム,336.7,MEGA_ULTIMATE,🚀 MEGA COMPANY DETECTED: セールスフォース; 💎 ULTIMATE KEYWORD: セールスフォース; 🧠 CONTEXT INTELLIGENCE: SI; 🔬 DEEP TECH: NODE; 🏢 TECH LOCATION: 港区; 🏢 TECH LOCATION: 六本木,コマーシャル営業本部,アカウントエグゼクティブ,swakamiya@salescorce.com,100,50,16,0
+株式会社セールスフォース・ドットコム,336.7,MEGA_ULTIMATE,🚀 MEGA COMPANY DETECTED: セールスフォース; 💎 ULTIMATE KEYWORD: セールスフォース; 🧠 CONTEXT INTELLIGENCE: SI; 🔬 DEEP TECH: NODE; 🏢 TECH LOCATION: 港区; 🏢 TECH LOCATION: 六本木,コーポレートセールス本部,アカウントエグゼクティブ,aendo@salesforce.com,100,50,16,0
+株式会社セールスフォース,334.5,MEGA_ULTIMATE,🚀 MEGA COMPANY DETECTED: セールスフォース; 💎 ULTIMATE KEYWORD: セールスフォース; 🧠 CONTEXT INTELLIGENCE: SI; 🔬 DEEP TECH: NODE; 🏢 TECH LOCATION: 千代田; 🏢 TECH LOCATION: 神田,nan,取締役,yamakita@s-3s.biz,100,50,16,0
+楽天株式会社,322.3,MEGA_ULTIMATE,🚀 MEGA COMPANY DETECTED: 楽天; 💎 ULTIMATE KEYWORD: 楽天; 🧠 CONTEXT INTELLIGENCE: SI; 🧠 CONTEXT INTELLIGENCE: サービス; 🏢 TECH LOCATION: 品川,店舗サポート部　ビジネスサービスグループ,nan,不明,100,50,22,0
+株式会社セールスマーケティング,91.4,MEGA_ULTIMATE,🧠 CONTEXT INTELLIGENCE: SI; 🧠 CONTEXT INTELLIGENCE: コンサル; 🧠 CONTEXT INTELLIGENCE: ソリューション; 🔬 DEEP TECH: NODE; 🏢 TECH LOCATION: 新宿,ソリューション事業部　コンサルティングチーム,マネージャー,kamiya-ryuji@salesmarketing.co.jp,0,0,38,0
+電気化学工業株式会社,89.0,MEGA_ULTIMATE,🎯 TITLE INDICATOR: 開発; 🎯 TITLE INDICATOR: 情報; 📋 DEPT PATTERN: IT部署パターン; 📋 DEPT PATTERN: 開発部署パターン; 🏢 TECH LOCATION: 中央区,nan,情報開発部,hiroshi-igimi@demla.co.jp,0,0,0,50
+株式会社アドバゲーミング,81.6,MEGA_ULTIMATE,💎 ULTIMATE KEYWORD: ゲーミング; 🧠 CONTEXT INTELLIGENCE: SI; 🔬 DEEP TECH: NODE; 🏢 TECH LOCATION: 港区; 🏢 TECH LOCATION: 赤坂,nan,コーポレート・エバンジェリスト,evangelist@ad-gaming.co.jp,0,14,16,0
+株式会社　ガルチ,78.5,MEGA_ULTIMATE,🧠 CONTEXT INTELLIGENCE: SI; 🎯 TITLE INDICATOR: 開発; 🔬 DEEP TECH: NODE; 🏢 TECH LOCATION: 千代田,nan,取締役　最高開発責任者,saito@gulti.jp,0,0,16,16
+株式会社アスペクト,77.2,MEGA_ULTIMATE,🧠 CONTEXT INTELLIGENCE: SI; 🧠 CONTEXT INTELLIGENCE: ASP; 📧 DOMAIN PATTERN: asp-net.co.jp; 🔬 DEEP TECH: NODE,nan,代表取締役,oikawa@asp-net.co.jp,0,0,28,0
+株式会社ジェーアイシー,75.6,MEGA_ULTIMATE,🧠 CONTEXT INTELLIGENCE: SI; 🧠 CONTEXT INTELLIGENCE: ソリューション; 🔬 DEEP TECH: NODE; 🏢 TECH LOCATION: 港区,HRソリューション事業部,営業グループ主任,t-suzuki@c-jic.co.jp,0,0,28,0
+日本テクノウェイブ株式会社,75.6,MEGA_ULTIMATE,🧠 CONTEXT INTELLIGENCE: SI; 🧠 CONTEXT INTELLIGENCE: ソリューション; 🔬 DEEP TECH: NODE; 🏢 TECH LOCATION: 渋谷,ソリューション本部,主任,ntw_noguchi@gw.nsw.co.jp,0,0,28,0
+株式会社ジェーアイシー,75.6,MEGA_ULTIMATE,🧠 CONTEXT INTELLIGENCE: SI; 🧠 CONTEXT INTELLIGENCE: ソリューション; 🔬 DEEP TECH: NODE; 🏢 TECH LOCATION: 港区,HRソリューション事業部,営業,y-arai@c-jic.co.jp,0,0,28,0
+株式会社セールスマーケティング,73.4,MEGA_ULTIMATE,🧠 CONTEXT INTELLIGENCE: SI; 🧠 CONTEXT INTELLIGENCE: ソリューション; 🔬 DEEP TECH: NODE; 🏢 TECH LOCATION: 新宿,ソリューション事業部,事業部長,takushi-nobuyuki@salesmarketing.co.jp,0,0,28,0
+ドットコムサービス株式会社,73.4,MEGA_ULTIMATE,🧠 CONTEXT INTELLIGENCE: SI; 🧠 CONTEXT INTELLIGENCE: サービス; 🧠 CONTEXT INTELLIGENCE: SERVICE; 🔬 DEEP TECH: NODE; 🏢 TECH LOCATION: 新宿,営業本部,営業課長,nitami@dotcom-service.com,0,0,28,0
+株式会社デジックスエモーション,72.0,MEGA_ULTIMATE,🎯 ULTIMATE PATTERN: デジ; 🧠 CONTEXT INTELLIGENCE: SI; 🔬 DEEP TECH: NODE; 🏢 TECH LOCATION: 渋谷,nan,営業本部長,ogiwara@dchd.jp,0,12,16,0
+株式会社ネオキャリア,69.8,MEGA_ULTIMATE,🧠 CONTEXT INTELLIGENCE: SI; 🧠 CONTEXT INTELLIGENCE: コンサル; 🔬 DEEP TECH: NODE; 🏢 TECH LOCATION: 新宿,採用コンサルティング事業部,プランナー,takumi.shiozaki@neo-career.co.jp,0,0,26,0
+株式会社ネオキャリア,69.8,MEGA_ULTIMATE,🧠 CONTEXT INTELLIGENCE: SI; 🧠 CONTEXT INTELLIGENCE: コンサル; 🔬 DEEP TECH: NODE; 🏢 TECH LOCATION: 新宿,採用コンサルティング事業部,プランナー,tomomi.sato@neo-career.co.jp,0,0,26,0
+株式会社ネオキャリア,69.8,MEGA_ULTIMATE,🧠 CONTEXT INTELLIGENCE: SI; 🧠 CONTEXT INTELLIGENCE: コンサル; 🔬 DEEP TECH: NODE; 🏢 TECH LOCATION: 新宿,採用コンサルティング事業部,チーフプランナー,takahiro.nishi@neo-career.co.jp,0,0,26,0
+株式会社フレクト,69.0,MEGA_ULTIMATE,🎯 ULTIMATE PATTERN: フレクト; 🧠 CONTEXT INTELLIGENCE: SI; 🔬 DEEP TECH: NODE; 🏢 TECH LOCATION: 渋谷,nan,営業,t-daisuke@flect.co.jp,0,10,16,0
+株式会社ライトアップ,67.0,MEGA_ULTIMATE,🎯 ULTIMATE PATTERN: ライト; 🧠 CONTEXT INTELLIGENCE: SI; 🧠 CONTEXT INTELLIGENCE: コンサル; 🏢 TECH LOCATION: 渋谷,新規事業コンサルティング局,リーダー,koguchi@writeup.co.jp,0,6,26,0
+株式会社ライトアップ,67.0,MEGA_ULTIMATE,🎯 ULTIMATE PATTERN: ライト; 🧠 CONTEXT INTELLIGENCE: SI; 🧠 CONTEXT INTELLIGENCE: コンサル; 🏢 TECH LOCATION: 渋谷,新規事業コンサルティング局,シニアサポーター,akira_sato@writeup.co.jp,0,6,26,0
+株式会社ＣＳＫアドミニストレーションサービス,64.8,MEGA_ULTIMATE,🧠 CONTEXT INTELLIGENCE: SI; 🧠 CONTEXT INTELLIGENCE: サービス; 🔬 DEEP TECH: NODE; 🏢 TECH LOCATION: 港区,ビジネスパートナー推進部　調達サービス課,nan,madoka.kogachi@csk.com,0,0,22,0
+株式会社インディ・アソシエイツ,64.4,MEGA_ULTIMATE,🧠 CONTEXT INTELLIGENCE: SI; 📧 DOMAIN PATTERN: indy-net.co.jp; 🔬 DEEP TECH: NODE; 🏢 TECH LOCATION: 港区,キャリアバンク事業部,ゼネラルマネージャー,to-kato@indy-net.co.jp,0,0,16,0
+株式会社ビジネスシナジージャパン,64.4,MEGA_ULTIMATE,🧠 CONTEXT INTELLIGENCE: SI; 📧 DOMAIN PATTERN: b-synergy-j.net; 🔬 DEEP TECH: NODE; 🏢 TECH LOCATION: 港区,nan,統括本部長,saruwatari@b-synergy-j.net,0,0,16,0
+株式会社アドックインターナショナル,64.4,MEGA_ULTIMATE,🧠 CONTEXT INTELLIGENCE: SI; 🧠 CONTEXT INTELLIGENCE: ソリューション; 🔬 DEEP TECH: NODE,ソリューション推進部　アカウントチーム,専任課長,yo_kosugi@adoc.co.jp,0,0,28,0
+株式会社インディ・アソシエイツ,64.4,MEGA_ULTIMATE,🧠 CONTEXT INTELLIGENCE: SI; 📧 DOMAIN PATTERN: indy-net.co.jp; 🔬 DEEP TECH: NODE; 🏢 TECH LOCATION: 港区,キャリアバンク事業部,アシスタントマネージャー,a-shimizu@indy-net.co.jp,0,0,16,0
+株式会社ワープストリーム,63.8,MEGA_ULTIMATE,🎯 ULTIMATE PATTERN: ストリーム; 🧠 CONTEXT INTELLIGENCE: SI; 🔬 DEEP TECH: NODE; 🏢 TECH LOCATION: 新宿,新規事業部,部長,yamamuro@warpstream.co.jp,0,8,16,0
+バンク・オブ・コンテンツ株式会社,63.8,MEGA_ULTIMATE,💎 ULTIMATE KEYWORD: コンテンツ; 🧠 CONTEXT INTELLIGENCE: SI; 🔬 DEEP TECH: NODE; 🏢 TECH LOCATION: 目黒,nan,代表取締役　CEO,okumura@bofc.co.jp,0,8,16,0
+株式会社ワークリバティ,63.0,MEGA_ULTIMATE,🎯 ULTIMATE PATTERN: ワーク; 🧠 CONTEXT INTELLIGENCE: SI; 🔬 DEEP TECH: NODE; 🏢 TECH LOCATION: 渋谷,nan,主任,sasaki@tokyo-fa.jp,0,6,16,0
+株式会社ブレインコミュニケーション,62.2,MEGA_ULTIMATE,🧠 CONTEXT INTELLIGENCE: SI; 📧 DOMAIN PATTERN: brain-com.net; 🔬 DEEP TECH: NODE; 🏢 TECH LOCATION: 中央区,nan,代表取締役,mkamiya@brain-com.net,0,0,16,0
+株式会社アセント,62.2,MEGA_ULTIMATE,🧠 CONTEXT INTELLIGENCE: SI; 📧 DOMAIN PATTERN: hotel-ascent.net; 🔬 DEEP TECH: NODE; 🏢 TECH LOCATION: 新宿,nan,常務取締役,h-kageyama@hotel-ascent.net,0,0,16,0
+株式会社ミップス,62.2,MEGA_ULTIMATE,🧠 CONTEXT INTELLIGENCE: SI; 📧 DOMAIN PATTERN: mipsnet.co.jp; 🔬 DEEP TECH: NODE; 🏢 TECH LOCATION: 中央区,営業部,部長,te-imamura@mipsnet.co.jp,0,0,16,0
+株式会社メディアワーク,61.9,MEGA_ULTIMATE,🎯 ULTIMATE PATTERN: ワーク; 🧠 CONTEXT INTELLIGENCE: SI; 🔬 DEEP TECH: NODE; 🏢 TECH LOCATION: 千代田,営業部,nan,ky-nagakubo@mw-g.com,0,6,16,0
+株式会社ワークサイエンス,61.9,MEGA_ULTIMATE,🎯 ULTIMATE PATTERN: ワーク; 🧠 CONTEXT INTELLIGENCE: SI; 🔬 DEEP TECH: NODE; 🏢 TECH LOCATION: 千代田,パートナー営業部,担当部長,k-shioda@workscience.jp,0,6,16,0
+フューチャー・エクシィード株式会社,61.9,MEGA_ULTIMATE,🎯 ULTIMATE PATTERN: フューチャー; 🧠 CONTEXT INTELLIGENCE: SI; 🔬 DEEP TECH: NODE; 🏢 TECH LOCATION: 千代田,営業部,シニアマネージャー,takumi_komai@fexd.co.jp,0,6,16,0
+株式会社ワークサイエンス,61.9,MEGA_ULTIMATE,🎯 ULTIMATE PATTERN: ワーク; 🧠 CONTEXT INTELLIGENCE: SI; 🔬 DEEP TECH: NODE; 🏢 TECH LOCATION: 千代田,営業部,nan,a_okada@workscience.jp,0,6,16,0
+株式会社レッドウィングス,61.7,MEGA_ULTIMATE,🧠 CONTEXT INTELLIGENCE: SI; 🔬 DEEP TECH: NODE; 🏢 TECH LOCATION: 渋谷; 🏢 TECH LOCATION: 恵比寿,営業管理部,課長,s-kikuchi@red-wings.co.jp,0,0,16,0
+株式会社ステンレスワン,61.7,MEGA_ULTIMATE,🧠 CONTEXT INTELLIGENCE: SI; 🔬 DEEP TECH: NODE; 🏢 TECH LOCATION: 千代田; 🏢 TECH LOCATION: 神田; 🏢 TECH LOCATION: 本町,営業第２部　第１課,nan,takeshi.wakasugi@stnls.co.jp,0,0,16,0
+株式会社インワードエージェント,61.7,MEGA_ULTIMATE,🧠 CONTEXT INTELLIGENCE: SI; 🔬 DEEP TECH: NODE; 🏢 TECH LOCATION: 渋谷; 🏢 TECH LOCATION: 恵比寿,nan,ゼネラルマネージャー,satou@inward-agent.com,0,0,16,0
+株式会社　イーライン,61.7,MEGA_ULTIMATE,🧠 CONTEXT INTELLIGENCE: SI; 🔬 DEEP TECH: NODE; 🏢 TECH LOCATION: 港区; 🏢 TECH LOCATION: 六本木,nan,サブマネージャー,noro@ee-line.co.jp,0,0,16,0
+株式会社ラスター,61.7,MEGA_ULTIMATE,🧠 CONTEXT INTELLIGENCE: SI; 🔬 DEEP TECH: NODE; 🏢 TECH LOCATION: 港区; 🏢 TECH LOCATION: 六本木,営業部,nan,yabe@luster-ltd.jp,0,0,16,0
+株式会社　ピンポイントサービス,60.5,MEGA_ULTIMATE,🧠 CONTEXT INTELLIGENCE: SI; 🧠 CONTEXT INTELLIGENCE: サービス; 🧠 CONTEXT INTELLIGENCE: SERVICE; 🏢 TECH LOCATION: 千代田,営業推進部,課長,yamada@pinpointservice.com,0,0,28,0
+株式会社情報電子,60.2,MEGA_ULTIMATE,🎯 ULTIMATE PATTERN: 電子; 🧠 CONTEXT INTELLIGENCE: SI; 🔬 DEEP TECH: NODE,営業推進事業部　営業２課　第３グループ,営業マネージャー,h.hitaki@jyouhoudenshi.jp,0,10,16,0
+株式会社ストラテジーアンドパートナーズ,58.6,MEGA_ULTIMATE,🧠 CONTEXT INTELLIGENCE: SI; 🔬 DEEP TECH: NODE; 🎯 CONSULTING: STRATEGY; 🏢 TECH LOCATION: 新宿,モバイルメディアチーム,チームリーダー,m.kawanishi@strategy-p.co.jp,0,0,16,0
+株式会社ストラテジーアンドパートナーズ,58.6,MEGA_ULTIMATE,🧠 CONTEXT INTELLIGENCE: SI; 🔬 DEEP TECH: NODE; 🎯 CONSULTING: STRATEGY; 🏢 TECH LOCATION: 新宿,モバイルメディアチーム,プロデューサー,m.machida@strategy-p.co.jp,0,0,16,0
+株式会社サン情報開発,57.8,MEGA_ULTIMATE,💎 ULTIMATE KEYWORD: 開発; 🧠 CONTEXT INTELLIGENCE: SI; 🔬 DEEP TECH: NODE,営業推進部,部長,m.miyama@sid.co.jp,0,10,16,0
+株式会社ソナー,56.2,MEGA_ULTIMATE,🧠 CONTEXT INTELLIGENCE: SI; 🔬 DEEP TECH: NODE; 🏢 TECH LOCATION: 秋葉原,nan,プランナー,h_watanabe@ci-inc.co.jp,0,0,16,0
+株式会社TSアドバイザリ・サービス,56.0,MEGA_ULTIMATE,🧠 CONTEXT INTELLIGENCE: SI; 🧠 CONTEXT INTELLIGENCE: サービス; 🔬 DEEP TECH: NODE,nan,チーフ・アドバイザー,yamaguchi@ts-sa.jp,0,0,22,0
+ソラン中国,54.0,MEGA_ULTIMATE,🧠 CONTEXT INTELLIGENCE: SI; 🔬 DEEP TECH: NODE; 🏢 TECH LOCATION: 港区,事業監査室,室長,oguri.naoya@sorun.co.jp,0,0,16,0
+株式会社ロゼッタ,54.0,MEGA_ULTIMATE,🧠 CONTEXT INTELLIGENCE: SI; 🔬 DEEP TECH: NODE; 🏢 TECH LOCATION: 渋谷,nan,ディレクター,honma@rozetta.co.jp,0,0,16,0
+ソラン中国,54.0,MEGA_ULTIMATE,🧠 CONTEXT INTELLIGENCE: SI; 🔬 DEEP TECH: NODE; 🏢 TECH LOCATION: 港区,nan,常務取締役,kojo.masataka@tis.co.jp,0,0,16,0
+株式会社アークパワー,54.0,MEGA_ULTIMATE,🧠 CONTEXT INTELLIGENCE: SI; 🔬 DEEP TECH: NODE; 🏢 TECH LOCATION: 渋谷,アークテック事業部　営業部,部長,yas_seki@arkpower.co.jp,0,0,16,0
+アルゴノート株式会社,54.0,MEGA_ULTIMATE,🧠 CONTEXT INTELLIGENCE: SI; 🔬 DEEP TECH: NODE; 🏢 TECH LOCATION: 渋谷,プロジェクトアウトソーシング事業部,営業マネージャー,ishikawa@argona.jp,0,0,16,0
+株式会社　ワンズマーク,54.0,MEGA_ULTIMATE,🧠 CONTEXT INTELLIGENCE: SI; 🔬 DEEP TECH: NODE; 🏢 TECH LOCATION: 港区,nan,代表取締役,hirano@onesmark.jp,0,0,16,0
+有限会社モック,54.0,MEGA_ULTIMATE,🧠 CONTEXT INTELLIGENCE: SI; 🔬 DEEP TECH: NODE; 🏢 TECH LOCATION: 渋谷,nan,デザイナー・イラストレーター,不明,0,0,16,0
+トウマンホーム株式会社,54.0,MEGA_ULTIMATE,🧠 CONTEXT INTELLIGENCE: SI; 🔬 DEEP TECH: NODE; 🏢 TECH LOCATION: 港区,不動産営業部,nan,yamanaka@c21-th.com,0,0,16,0
+コンパス,54.0,MEGA_ULTIMATE,🧠 CONTEXT INTELLIGENCE: SI; 🔬 DEEP TECH: NODE; 🏢 TECH LOCATION: 渋谷,東京オフィス,アセットプランナー,delta_fj_wave@yahoo.co.jp,0,0,16,0
+株式会社メルソー,54.0,MEGA_ULTIMATE,🧠 CONTEXT INTELLIGENCE: SI; 🔬 DEEP TECH: NODE; 🏢 TECH LOCATION: 渋谷,営業部,nan,takaya@melsol.jp,0,0,16,0
+株式会社メルソー,54.0,MEGA_ULTIMATE,🧠 CONTEXT INTELLIGENCE: SI; 🔬 DEEP TECH: NODE; 🏢 TECH LOCATION: 渋谷,nan,マネージャー,kanomoto@melsol.jp,0,0,16,0
+株式会社アドギア,54.0,MEGA_ULTIMATE,🧠 CONTEXT INTELLIGENCE: SI; 🔬 DEEP TECH: NODE; 🏢 TECH LOCATION: 港区,メディア本部　メディア部,プランナー,ogawara@adgear.co.jp,0,0,16,0
+株式会社アドギア,54.0,MEGA_ULTIMATE,🧠 CONTEXT INTELLIGENCE: SI; 🔬 DEEP TECH: NODE; 🏢 TECH LOCATION: 港区,メディア本部　メディア業務推進部,チームリーダー　プランナー,t-sone@adgear.co.jp,0,0,16,0
+株式会社　アポジジャパン,54.0,MEGA_ULTIMATE,🧠 CONTEXT INTELLIGENCE: SI; 🔬 DEEP TECH: NODE; 🏢 TECH LOCATION: 渋谷,nan,代表取締役,yoshi-t@apogee.jp,0,0,16,0
+有限会社　ガイズウェア,54.0,MEGA_ULTIMATE,🧠 CONTEXT INTELLIGENCE: SI; 🔬 DEEP TECH: NODE; 🏢 TECH LOCATION: 渋谷,nan,代表取締役,kamegai@guyzware.jp,0,0,16,0
+株式会社シンセベース,54.0,MEGA_ULTIMATE,🧠 CONTEXT INTELLIGENCE: SI; 🔬 DEEP TECH: NODE; 🏢 TECH LOCATION: 渋谷,営業部,担当部長,m.naito@synthebase.co.jp,0,0,16,0
+ngi group株式会社,54.0,MEGA_ULTIMATE,🧠 CONTEXT INTELLIGENCE: SI; 🔬 DEEP TECH: NODE; 🏢 TECH LOCATION: 港区,SSP事業部,プロデューサー,hiroki-morishima@ngigroup.com,0,0,16,0
+株式会社エクスディー,54.0,MEGA_ULTIMATE,🧠 CONTEXT INTELLIGENCE: SI; 🔬 DEEP TECH: NODE; 🏢 TECH LOCATION: 港区,nan,代表取締役社長,yonei@xd-inc.jp,0,0,16,0
+株式会社ドゥキャリア,54.0,MEGA_ULTIMATE,🧠 CONTEXT INTELLIGENCE: SI; 🔬 DEEP TECH: NODE; 🏢 TECH LOCATION: 渋谷,第一営業部,nan,a_oomori@dworks-ent.co.jp,0,0,16,0
+オリックス不動産株式会社,54.0,MEGA_ULTIMATE,🧠 CONTEXT INTELLIGENCE: SI; 🔬 DEEP TECH: NODE; 🏢 TECH LOCATION: 港区,ホテル事業課,nan,miyuki_kamimura@ore.orix.co.jp,0,0,16,0
+株式会社エス・エス・アヴェニュー,54.0,MEGA_ULTIMATE,🧠 CONTEXT INTELLIGENCE: SI; 🔬 DEEP TECH: NODE; 🏢 TECH LOCATION: 港区,nan,営業,yamashita@ss-ave.co.jp,0,0,16,0
+株式会社シンク,54.0,MEGA_ULTIMATE,🧠 CONTEXT INTELLIGENCE: SI; 🔬 DEEP TECH: NODE; 🏢 TECH LOCATION: 港区,nan,テクニカルディレクター,y.takagi@think.ne.jp,0,0,16,0
+アイ・ティ・シー株式会社,54.0,MEGA_ULTIMATE,🧠 CONTEXT INTELLIGENCE: SI; 🔬 DEEP TECH: NODE; 🏢 TECH LOCATION: 渋谷,nan,営業担当,不明,0,0,16,0
+株式会社スイング,54.0,MEGA_ULTIMATE,🧠 CONTEXT INTELLIGENCE: SI; 🔬 DEEP TECH: NODE; 🏢 TECH LOCATION: 渋谷,nan,代表取締役,y-fujinami@j-swing.co.jp,0,0,16,0
+株式会社ティーコネクション,54.0,MEGA_ULTIMATE,🧠 CONTEXT INTELLIGENCE: SI; 🔬 DEEP TECH: NODE; 🏢 TECH LOCATION: 渋谷,nan,ディレクター,yamamoto@tconnection.co.jp,0,0,16,0
+トッパン・フォームズ・オペレーション株式会社,54.0,MEGA_ULTIMATE,🧠 CONTEXT INTELLIGENCE: SI; 🔬 DEEP TECH: NODE; 🏢 TECH LOCATION: 港区,人事部　委託管理グループ,マネージャー,tateishir@tfo.co.jp,0,0,16,0
+株式会社ロゼッタ,54.0,MEGA_ULTIMATE,🧠 CONTEXT INTELLIGENCE: SI; 🔬 DEEP TECH: NODE; 🏢 TECH LOCATION: 渋谷,nan,プロデューサー,tobita@rozetta.co.jp,0,0,16,0
+パシフィック・オーシャン株式会社,54.0,MEGA_ULTIMATE,🧠 CONTEXT INTELLIGENCE: SI; 🔬 DEEP TECH: NODE; 🏢 TECH LOCATION: 港区,nan,代表取締役,poch@pocn.jp,0,0,16,0
+株式会社アイタンクジャパン,54.0,MEGA_ULTIMATE,🧠 CONTEXT INTELLIGENCE: SI; 🔬 DEEP TECH: NODE; 🏢 TECH LOCATION: 渋谷,メディア事業本部,マネージャー,suzuki@i-tank.jp,0,0,16,0
+株式会社ネクサスマインド,54.0,MEGA_ULTIMATE,🧠 CONTEXT INTELLIGENCE: SI; 🔬 DEEP TECH: NODE; 🏢 TECH LOCATION: 港区,nan,部長,kanai@nexusmind.co.jp,0,0,16,0
+ツイテル株式会社,54.0,MEGA_ULTIMATE,🧠 CONTEXT INTELLIGENCE: SI; 🔬 DEEP TECH: NODE; 🏢 TECH LOCATION: 渋谷,nan,顧問,denda@cho-tsuitel.com,0,0,16,0
+株式会社アドギア,54.0,MEGA_ULTIMATE,🧠 CONTEXT INTELLIGENCE: SI; 🔬 DEEP TECH: NODE; 🏢 TECH LOCATION: 港区,メディア本部　メディア部,チームリーダー　チーフプランナー,furuya@adgear.co.jp,0,0,16,0
+ガッシュ株式会社,54.0,MEGA_ULTIMATE,🧠 CONTEXT INTELLIGENCE: SI; 🔬 DEEP TECH: NODE; 🏢 TECH LOCATION: 渋谷,nan,代表取締役,kaji@lemonade.co.jp,0,0,16,0
+未来少年,54.0,MEGA_ULTIMATE,🧠 CONTEXT INTELLIGENCE: SI; 🔬 DEEP TECH: NODE; 🏢 TECH LOCATION: 渋谷,nan,代表取締役,yonekura@miraishonen.co.jp,0,0,16,0
+株式会社　アイデンティティー,54.0,MEGA_ULTIMATE,🧠 CONTEXT INTELLIGENCE: SI; 🔬 DEEP TECH: NODE; 🏢 TECH LOCATION: 渋谷,営業統括本部,営業担当,y.fujimaki@id-entity.jp,0,0,16,0
+株式会社NextTrust,54.0,MEGA_ULTIMATE,🧠 CONTEXT INTELLIGENCE: SI; 🔬 DEEP TECH: NODE; 🏢 TECH LOCATION: 港区,nan,代表取締役,不明,0,0,16,0
+株式会社NextTrust,54.0,MEGA_ULTIMATE,🧠 CONTEXT INTELLIGENCE: SI; 🔬 DEEP TECH: NODE; 🏢 TECH LOCATION: 港区,総務部,部長,yoshida@next-trust.co.jp,0,0,16,0
+株式会社グランター,54.0,MEGA_ULTIMATE,🧠 CONTEXT INTELLIGENCE: SI; 🔬 DEEP TECH: NODE; 🏢 TECH LOCATION: 港区,nan,代表取締役,不明,0,0,16,0
+株式会社グランター,54.0,MEGA_ULTIMATE,🧠 CONTEXT INTELLIGENCE: SI; 🔬 DEEP TECH: NODE; 🏢 TECH LOCATION: 港区,nan,nan,不明,0,0,16,0
+株式会社グランター,54.0,MEGA_ULTIMATE,🧠 CONTEXT INTELLIGENCE: SI; 🔬 DEEP TECH: NODE; 🏢 TECH LOCATION: 港区,nan,取締役,iijima@granter.co.jp,0,0,16,0
+株式会社グランター,54.0,MEGA_ULTIMATE,🧠 CONTEXT INTELLIGENCE: SI; 🔬 DEEP TECH: NODE; 🏢 TECH LOCATION: 港区,nan,総務部長,takahashi@granter.co.jp,0,0,16,0
+株式会社デュリュクス,54.0,MEGA_ULTIMATE,🧠 CONTEXT INTELLIGENCE: SI; 🔬 DEEP TECH: NODE; 🏢 TECH LOCATION: 港区,nan,代表取締役社長,yoko@de-luxe.jp,0,0,16,0
+株式会社スクリプティングアーツ,52.9,MEGA_ULTIMATE,🧠 CONTEXT INTELLIGENCE: SI; 🔬 DEEP TECH: NODE; 🏢 TECH LOCATION: 千代田,nan,nan,不明,0,0,16,0
+株式会社朱雀,52.9,MEGA_ULTIMATE,🧠 CONTEXT INTELLIGENCE: SI; 🔬 DEEP TECH: NODE; 🏢 TECH LOCATION: 品川,nan,取締役,不明,0,0,16,0
+株式会社朱雀,52.9,MEGA_ULTIMATE,🧠 CONTEXT INTELLIGENCE: SI; 🔬 DEEP TECH: NODE; 🏢 TECH LOCATION: 品川,nan,代表取締役社長,my-suzak@suzak.co.jp,0,0,16,0
+クロスマーチャンダイス株式会社,52.9,MEGA_ULTIMATE,🧠 CONTEXT INTELLIGENCE: SI; 🔬 DEEP TECH: NODE; 🏢 TECH LOCATION: 千代田,nan,代表取締役,kitamura@crossmerchandize.com,0,0,16,0
+アイコム株式会社,52.9,MEGA_ULTIMATE,🧠 CONTEXT INTELLIGENCE: SI; 🔬 DEEP TECH: NODE; 🏢 TECH LOCATION: 千代田,nan,取締役　営業本部長,y-yamazaki@icomcorp.jp,0,0,16,0
+日本ソフミット株式会社,52.9,MEGA_ULTIMATE,🧠 CONTEXT INTELLIGENCE: SI; 🔬 DEEP TECH: NODE; 🏢 TECH LOCATION: 千代田,nan,取締役,wangdong@sofmit.co.jp,0,0,16,0
+株式会社タノシード,52.9,MEGA_ULTIMATE,🧠 CONTEXT INTELLIGENCE: SI; 🔬 DEEP TECH: NODE; 🏢 TECH LOCATION: 千代田,nan,代表取締役,n-takaki@tanoseed.jp,0,0,16,0
+防衛省自衛隊,52.9,MEGA_ULTIMATE,🧠 CONTEXT INTELLIGENCE: SI; 🔬 DEEP TECH: NODE; 🏢 TECH LOCATION: 品川,nan,2等空佐　所長,不明,0,0,16,0
+株式会社フュージョンワン,52.9,MEGA_ULTIMATE,🧠 CONTEXT INTELLIGENCE: SI; 🔬 DEEP TECH: NODE; 🏢 TECH LOCATION: 千代田,企画管理部,マネージャー,shiraishi@kanda-it-school.com,0,0,16,0
+株式会社フュージョンワン,52.9,MEGA_ULTIMATE,🧠 CONTEXT INTELLIGENCE: SI; 🔬 DEEP TECH: NODE; 🏢 TECH LOCATION: 千代田,nan,代表取締役　主席インストラクター,kchoi@fusion.co.jp,0,0,16,0
+株式会社ホスピタリティコミュニケーションズ,52.9,MEGA_ULTIMATE,🧠 CONTEXT INTELLIGENCE: SI; 🔬 DEEP TECH: NODE; 🏢 TECH LOCATION: 千代田,nan,nan,不明,0,0,16,0
+株式会社アスカ,52.9,MEGA_ULTIMATE,🧠 CONTEXT INTELLIGENCE: SI; 🔬 DEEP TECH: NODE; 🏢 TECH LOCATION: 千代田,nan,専務取締役,f-yatsu@asuka-line.com,0,0,16,0
+株式会社ホスピタリティコミュニケーションズ,52.9,MEGA_ULTIMATE,🧠 CONTEXT INTELLIGENCE: SI; 🔬 DEEP TECH: NODE; 🏢 TECH LOCATION: 千代田,nan,nan,不明,0,0,16,0
+株式会社　ソルトーネ,52.9,MEGA_ULTIMATE,🧠 CONTEXT INTELLIGENCE: SI; 🔬 DEEP TECH: NODE; 🏢 TECH LOCATION: 千代田,nan,代表取締役,m.hara@soltone.co.jp,0,0,16,0
+株式会社ホスピタリティコミュニケーションズ,52.9,MEGA_ULTIMATE,🧠 CONTEXT INTELLIGENCE: SI; 🔬 DEEP TECH: NODE; 🏢 TECH LOCATION: 千代田,営業企画部　広告事業部,部長,siwamuro@hospitarity-communications.co.jp,0,0,16,0
+株式会社CRAVA,52.9,MEGA_ULTIMATE,🧠 CONTEXT INTELLIGENCE: SI; 🔬 DEEP TECH: NODE; 🏢 TECH LOCATION: 千代田,nan,代表取締役,kkazuki@crava.co.jp,0,0,16,0
+株式会社エヴァーレッド,52.9,MEGA_ULTIMATE,🧠 CONTEXT INTELLIGENCE: SI; 🔬 DEEP TECH: NODE; 🏢 TECH LOCATION: 千代田,nan,代表取締役社長　チーフプランナー,way@everred.co.jp,0,0,16,0
+株式会社ウィルプラウド・ホールディングス,51.8,MEGA_ULTIMATE,🧠 CONTEXT INTELLIGENCE: SI; 🔬 DEEP TECH: NODE; 🏢 TECH LOCATION: 新宿,戦略パートナー事業本部,主任,sato@wphd.co.jp,0,0,16,0
+有限会社ビッグフェイス・ジャパン,51.8,MEGA_ULTIMATE,🧠 CONTEXT INTELLIGENCE: SI; 🔬 DEEP TECH: NODE; 🏢 TECH LOCATION: 新宿,nan,営業,usoppu-mama@docomo.ne.jp,0,0,16,0
+株式会社ビーライン・インタラクティブ・ジャパン,51.8,MEGA_ULTIMATE,🧠 CONTEXT INTELLIGENCE: SI; 🔬 DEEP TECH: NODE; 🏢 TECH LOCATION: 新宿,プランニングディビジョン,アシスタント,manabu.anzai@beeline-i.com,0,0,16,0
+株式会社ドリームインキュベーター,51.8,MEGA_ULTIMATE,🧠 CONTEXT INTELLIGENCE: SI; 🔬 DEEP TECH: NODE; 🏢 TECH LOCATION: 目黒,nan,ビジネスプロデューサー,yamamori.kohei@dreamincubator.co.jp,0,0,16,0
+RIO Japanホールディングス株式会社,51.8,MEGA_ULTIMATE,🧠 CONTEXT INTELLIGENCE: SI; 🔬 DEEP TECH: NODE; 🏢 TECH LOCATION: 新宿,nan,代表取締役社長,takano@rio-japan.co.jp,0,0,16,0
+RIO Japanホールディングス株式会社,51.8,MEGA_ULTIMATE,🧠 CONTEXT INTELLIGENCE: SI; 🔬 DEEP TECH: NODE; 🏢 TECH LOCATION: 新宿,総務部,部長,ebina.t@rio-japan.co.jp,0,0,16,0
+株式会社　クラヴァ,51.8,MEGA_ULTIMATE,🧠 CONTEXT INTELLIGENCE: SI; 🔬 DEEP TECH: NODE; 🏢 TECH LOCATION: 新宿,nan,代表取締役,kkazuki@crava.co.jp,0,0,16,0
+土地建物創研株式会社,51.8,MEGA_ULTIMATE,🧠 CONTEXT INTELLIGENCE: SI; 🔬 DEEP TECH: NODE; 🏢 TECH LOCATION: 新宿,nan,マネージャー,不明,0,0,16,0
+RIO Japanホールディングス株式会社,51.8,MEGA_ULTIMATE,🧠 CONTEXT INTELLIGENCE: SI; 🔬 DEEP TECH: NODE; 🏢 TECH LOCATION: 新宿,社長室,室長,ebina@rio-japan.co.jp,0,0,16,0
+株式会社　エス・エス・イー,51.8,MEGA_ULTIMATE,🧠 CONTEXT INTELLIGENCE: SI; 🔬 DEEP TECH: NODE; 🏢 TECH LOCATION: 新宿,営業部,nan,minowa@sse.ne.jp,0,0,16,0
+株式会社マスターピース,51.8,MEGA_ULTIMATE,🧠 CONTEXT INTELLIGENCE: SI; 🔬 DEEP TECH: NODE; 🏢 TECH LOCATION: 新宿,nan,代表取締役,tempei@masterps.jp,0,0,16,0
+株式会社サイスコーピオンズ,51.8,MEGA_ULTIMATE,🧠 CONTEXT INTELLIGENCE: SI; 🔬 DEEP TECH: NODE; 🏢 TECH LOCATION: 中央区,クリエイティブ事業部,エグゼクティブマネージャー,toshiya@cyscorpions.com,0,0,16,0
+株式会社セプテーニ,51.8,MEGA_ULTIMATE,🧠 CONTEXT INTELLIGENCE: SI; 🔬 DEEP TECH: NODE; 🏢 TECH LOCATION: 新宿,アカウント本部　営業部,マネージャー,kn_sato@septini.co.jp,0,0,16,0
+株式会社トウェルブ,51.8,MEGA_ULTIMATE,🧠 CONTEXT INTELLIGENCE: SI; 🔬 DEEP TECH: NODE; 🏢 TECH LOCATION: 新宿,nan,代表取締役,t@12j.co.jp,0,0,16,0
+有限会社インターフェイスリサーチ,51.8,MEGA_ULTIMATE,🧠 CONTEXT INTELLIGENCE: SI; 🔬 DEEP TECH: NODE; 🏢 TECH LOCATION: 新宿,パートナー推進室,nan,m-kokubo@ir-inc.co.jp,0,0,16,0
+株式会社ネオキャリア,51.8,MEGA_ULTIMATE,🧠 CONTEXT INTELLIGENCE: SI; 🔬 DEEP TECH: NODE; 🏢 TECH LOCATION: 新宿,メディアインテグレーション事業部,プランナー,tatsuro.kasuga@neo-career.co.jp,0,0,16,0
+株式会社シーフォービジネスインテグレーション,51.8,MEGA_ULTIMATE,🧠 CONTEXT INTELLIGENCE: SI; 🔬 DEEP TECH: NODE; 🏢 TECH LOCATION: 新宿,人材企画部,部長,y-nakaji@c4bi.jp,0,0,16,0
+株式会社ボトルキューブ,51.8,MEGA_ULTIMATE,🧠 CONTEXT INTELLIGENCE: SI; 🔬 DEEP TECH: NODE; 🏢 TECH LOCATION: 目黒,nan,代表取締役社長,kawaguchi@bottlecube.co.jp,0,0,16,0
+株式会社　マイニングブラウニー,51.8,MEGA_ULTIMATE,🧠 CONTEXT INTELLIGENCE: SI; 🔬 DEEP TECH: NODE; 🏢 TECH LOCATION: 中央区,営業部,nan,d.oku@miningbrownie.co.jp,0,0,16,0
+株式会社トライアンフコーポレーション,51.8,MEGA_ULTIMATE,🧠 CONTEXT INTELLIGENCE: SI; 🔬 DEEP TECH: NODE; 🏢 TECH LOCATION: 新宿,営業部,nan,kokubun.naoyuki@triumph-corp.co.jp,0,0,16,0
+有限会社インターフェイスリサーチ,51.8,MEGA_ULTIMATE,🧠 CONTEXT INTELLIGENCE: SI; 🔬 DEEP TECH: NODE; 🏢 TECH LOCATION: 新宿,nan,代表取締役,t-hoshi@ir-inc.co.jp,0,0,16,0
+株式会社セプテーニ,51.8,MEGA_ULTIMATE,🧠 CONTEXT INTELLIGENCE: SI; 🔬 DEEP TECH: NODE; 🏢 TECH LOCATION: 新宿,アカウント本部　特販プロジェクト,アカウントプランナー,h_sema@septini.co.jp,0,0,16,0
+株式会社トライアンフコーポレーション,51.8,MEGA_ULTIMATE,🧠 CONTEXT INTELLIGENCE: SI; 🔬 DEEP TECH: NODE; 🏢 TECH LOCATION: 新宿,営業部,nan,hamada.kota@triumph-corp.co.jp,0,0,16,0
+株式会社スングーラ,51.6,MEGA_ULTIMATE,🧠 CONTEXT INTELLIGENCE: SI; 🔬 DEEP TECH: NODE; 🏢 TECH LOCATION: 港区,代表取締役社長,nan,masato@sungura.jp,0,0,16,0
+株式会社プロフェット,51.2,MEGA_ULTIMATE,🎯 ULTIMATE PATTERN: プロ; 🧠 CONTEXT INTELLIGENCE: SI; 🔬 DEEP TECH: NODE,nan,代表取締役,920@plophet.com,0,4,16,0
+株式会社ジェイズアヴェニュー,50.7,MEGA_ULTIMATE,🧠 CONTEXT INTELLIGENCE: SI; 🔬 DEEP TECH: NODE; 🏢 TECH LOCATION: 栄,nan,取締役,sakuraba@jsavenue.co.jp,0,0,16,0
+株式会社オープンストリーム,49.8,ULTRA_ULTIMATE,🎯 ULTIMATE PATTERN: ストリーム; 🧠 CONTEXT INTELLIGENCE: SI; 🏢 TECH LOCATION: 新宿,業務推進本部　営業支援グループ,アライアンス担当,yagami.e@opst.co.jp,0,8,16,0
+日本サード・パーティ株式会社,49.7,ULTRA_ULTIMATE,🧠 CONTEXT INTELLIGENCE: SI; 🧠 CONTEXT INTELLIGENCE: サービス; 🏢 TECH LOCATION: 品川,ソーシャルサービス営業推進室,nan,Sebastian.Andersson@jtp.co.jp,0,0,22,0
+株式会社アスカ,49.7,ULTRA_ULTIMATE,🧠 CONTEXT INTELLIGENCE: SI; 🧠 CONTEXT INTELLIGENCE: SERVICE; 🏢 TECH LOCATION: 千代田,営業推進室,主任,t-kuwayama@aska-inc.co.jp,0,0,22,0
+日本サード・パーティ株式会社,49.7,ULTRA_ULTIMATE,🧠 CONTEXT INTELLIGENCE: SI; 🧠 CONTEXT INTELLIGENCE: サービス; 🏢 TECH LOCATION: 品川,ソーシャルサービス営業推進室,グループマネージャー,takayoshi.takeuchi@jtp.co.jp,0,0,22,0
+公立学校共済組合,49.4,ULTRA_ULTIMATE,🧠 CONTEXT INTELLIGENCE: SI; 🔬 DEEP TECH: NODE; 🏢 TECH LOCATION: 中央区,営業本部,接遇・渉外・企画担当支配人,k.yuda@portplazachiba.com,0,0,16,0
+プレジャードーム株式会社,49.4,ULTRA_ULTIMATE,🧠 CONTEXT INTELLIGENCE: SI; 🔬 DEEP TECH: NODE; 🏢 TECH LOCATION: 目黒,nan,代表取締役,okajima@pleasuredome.co.jp,0,0,16,0
+Ｊ－ｓｃｈｏｏＬ,49.4,ULTRA_ULTIMATE,🧠 CONTEXT INTELLIGENCE: SI; 🔬 DEEP TECH: NODE; 🏢 TECH LOCATION: 新宿,Ｊ－Ｓｃｈｏｏｌ運営事務局,アドバイザー,不明,0,0,16,0
+株式会社イメージサーカス,48.3,ULTRA_ULTIMATE,🧠 CONTEXT INTELLIGENCE: SI; 🔬 DEEP TECH: NODE; 🏢 TECH LOCATION: 大阪,nan,代表取締役,nomoto@imagecircus.co.jp,0,0,16,0
+株式会社シャトレーイン横浜,48.3,ULTRA_ULTIMATE,🧠 CONTEXT INTELLIGENCE: SI; 🔬 DEEP TECH: NODE; 🏢 TECH LOCATION: 横浜,nan,取締役支配人,kashiwaya@chatelet-inn.co.jp,0,0,16,0
+株式会社アクティブノア,48.3,ULTRA_ULTIMATE,🧠 CONTEXT INTELLIGENCE: SI; 🔬 DEEP TECH: NODE; 🏢 TECH LOCATION: 横浜,営業部,統括部長,sakamoto@active-noah.co.jp,0,0,16,0
+株式会社ナガセPCスクール,48.3,ULTRA_ULTIMATE,🧠 CONTEXT INTELLIGENCE: SI; 🔬 DEEP TECH: REST; 🏢 TECH LOCATION: 横浜,横浜ブロック受講生就職支店担当,マネージャー,m.yoshizawa@nps.ne.jp,0,0,16,0
+株式会社ルーセントエッグ,48.3,ULTRA_ULTIMATE,🧠 CONTEXT INTELLIGENCE: SI; 🔬 DEEP TECH: NODE; 🏢 TECH LOCATION: 横浜,nan,代表取締役,masayuki.ishii@lucentegg.com,0,0,16,0
+株式会社ナガセPCスクール,48.3,ULTRA_ULTIMATE,🧠 CONTEXT INTELLIGENCE: SI; 🔬 DEEP TECH: REST; 🏢 TECH LOCATION: 横浜,nan,シニアディレクター,d.abe@nps.ne.jp,0,0,16,0
+独立行政法人中小企業基盤設備機構,47.7,ULTRA_ULTIMATE,🧠 CONTEXT INTELLIGENCE: SI; 🏢 TECH LOCATION: 港区; 🏢 TECH LOCATION: 虎ノ門,nan,プロジェクトマネージャー,chiikiz-nagasawa@smrj.go.jp,0,0,16,0
+アイザース有限会社,47.2,ULTRA_ULTIMATE,🧠 CONTEXT INTELLIGENCE: SI; 🔬 DEEP TECH: NODE; 🏢 TECH LOCATION: 川崎,nan,代表取締役,hirota@eyesears.co.jp,0,0,16,0
+株式会社　電縁,45.5,ULTRA_ULTIMATE,🧠 CONTEXT INTELLIGENCE: SI; 🏢 TECH LOCATION: 品川; 🏢 TECH LOCATION: 五反田,nan,専務執行役員,t.saitou@e-relation.co.jp,0,0,16,0
+株式会社零,45.2,ULTRA_ULTIMATE,🧠 CONTEXT INTELLIGENCE: SI; 🔬 DEEP TECH: NODE,nan,nan,info@y-sakai.upper.jp,0,0,16,0
+ヴィンキュラムジャパン株式会社,45.2,ULTRA_ULTIMATE,🧠 CONTEXT INTELLIGENCE: SI; 🔬 DEEP TECH: NODE,東京管理グループ,担当課長,fukatsu@mail.vinculum-japan.co.jp,0,0,16,0
+株式会社ムー,45.2,ULTRA_ULTIMATE,🧠 CONTEXT INTELLIGENCE: SI; 🔬 DEEP TECH: NODE,営業部　兼　経営企画室,部長,不明,0,0,16,0
+株式会社アイダック,45.2,ULTRA_ULTIMATE,🧠 CONTEXT INTELLIGENCE: SI; 🔬 DEEP TECH: NODE,ウェブ＆インテグレーション事業部,nan,hnumata@idac.co.jp,0,0,16,0
+マサヒルズ,45.2,ULTRA_ULTIMATE,🧠 CONTEXT INTELLIGENCE: SI; 🔬 DEEP TECH: NODE,nan,プロデューサー,yanagisawa@masahills.com,0,0,16,0
+AMKミュージック合同会社,45.2,ULTRA_ULTIMATE,🧠 CONTEXT INTELLIGENCE: SI; 🔬 DEEP TECH: NODE,nan,代表　うたうサウンドクリエイター,amayake@amk-music.co.jp,0,0,16,0
+株式会社カンパニーデザイン,45.2,ULTRA_ULTIMATE,🧠 CONTEXT INTELLIGENCE: SI; 🔬 DEEP TECH: NODE,nan,社長室長,不明,0,0,16,0
+株式会社エー・ビー・エス,45.2,ULTRA_ULTIMATE,🧠 CONTEXT INTELLIGENCE: SI; 🔬 DEEP TECH: NODE,nan,代表取締役,sato@absinc.co.jp,0,0,16,0
+株式会社　5pb.,45.2,ULTRA_ULTIMATE,🧠 CONTEXT INTELLIGENCE: SI; 🔬 DEEP TECH: NODE,ゲーム事業部,ゼネラルプロデューサー,sdr@5pb.jp,0,0,16,0
+チャイナポータル株式会社,45.2,ULTRA_ULTIMATE,🧠 CONTEXT INTELLIGENCE: SI; 🔬 DEEP TECH: NODE,nan,取締役・営業部長,lizandong@chinap.co.jp,0,0,16,0
+チャイナポータル株式会社,45.2,ULTRA_ULTIMATE,🧠 CONTEXT INTELLIGENCE: SI; 🔬 DEEP TECH: NODE,nan,取締役・パートナー事業部長,kahou@chinap.co.jp,0,0,16,0
+チャイナポータル株式会社,45.2,ULTRA_ULTIMATE,🧠 CONTEXT INTELLIGENCE: SI; 🔬 DEEP TECH: NODE,営業部,nan,hiroko@chainap.co.jp,0,0,16,0
+MasaHills,45.2,ULTRA_ULTIMATE,🧠 CONTEXT INTELLIGENCE: SI; 🔬 DEEP TECH: NODE,nan,nan,yanagisawa@masahills.com,0,0,16,0
+アイオン合同会社,45.2,ULTRA_ULTIMATE,🧠 CONTEXT INTELLIGENCE: SI; 🔬 DEEP TECH: NODE,nan,業務執行　代表社員,oritaki@aion-j.com,0,0,16,0
+有限会社リソナル,45.2,ULTRA_ULTIMATE,🧠 CONTEXT INTELLIGENCE: SI; 🔬 DEEP TECH: NODE,nan,代表取締役,kmatsuda@lisonal.com,0,0,16,0
+株式会社アフロ,45.2,ULTRA_ULTIMATE,🧠 CONTEXT INTELLIGENCE: SI; 🔬 DEEP TECH: NODE,代表取締役,nan,kouji.masui@afro.co.jp,0,0,16,0
+万里プラン,45.2,ULTRA_ULTIMATE,🧠 CONTEXT INTELLIGENCE: SI; 🔬 DEEP TECH: NODE,nan,代表,不明,0,0,16,0
+株式会社インターヴァリュー,44.7,ULTRA_ULTIMATE,🧠 CONTEXT INTELLIGENCE: SI; 📧 DOMAIN PATTERN: iv7net.com; 🏢 TECH LOCATION: 横浜,nan,マーケティングディレクター,taguchi@iv7net.com,0,0,16,0
+コアーズ株式会社,44.4,ULTRA_ULTIMATE,🧠 CONTEXT INTELLIGENCE: SI; 🏢 TECH LOCATION: 品川; 🏢 TECH LOCATION: 栄,営業部,アシスタント,kobayashi-kiho@core-s.co.jp,0,0,16,0
+コアーズ株式会社,44.4,ULTRA_ULTIMATE,🧠 CONTEXT INTELLIGENCE: SI; 🏢 TECH LOCATION: 品川; 🏢 TECH LOCATION: 栄,nan,事業統括部事業部長,m-kuroda@core-s.co.jp,0,0,16,0
+コアーズ株式会社,44.4,ULTRA_ULTIMATE,🧠 CONTEXT INTELLIGENCE: SI; 🏢 TECH LOCATION: 品川; 🏢 TECH LOCATION: 栄,営業部,ゼネラルマネージャー,agarie@core-s.co.jp,0,0,16,0
+コアーズ株式会社,44.4,ULTRA_ULTIMATE,🧠 CONTEXT INTELLIGENCE: SI; 🏢 TECH LOCATION: 品川; 🏢 TECH LOCATION: 栄,nan,代表取締役社長,j-taba@core-s.co.jp,0,0,16,0
+株式会社フォーバル・リアルストレート,43.6,ULTRA_ULTIMATE,🎯 ULTIMATE PATTERN: リアル; 🧠 CONTEXT INTELLIGENCE: SI; 🏢 TECH LOCATION: 渋谷,営業部,nan,a-oota@realstraight.co.jp,0,4,16,0
+株式会社フォーバル・リアルストレート,43.6,ULTRA_ULTIMATE,🎯 ULTIMATE PATTERN: リアル; 🧠 CONTEXT INTELLIGENCE: SI; 🏢 TECH LOCATION: 渋谷,営業部,nan,m-kinoshita@realstraight.co.jp,0,4,16,0
+株式会社スピードリンクジャパン,43.2,ULTRA_ULTIMATE,🧠 CONTEXT INTELLIGENCE: ソリューション; 📧 DOMAIN PATTERN: speedlink-td.info; 🏢 TECH LOCATION: 渋谷,営業本部ソリューショングループ,nan,t.nakano@speedlink-td.info,0,0,12,0
+有限会社レイズフォース,42.8,ULTRA_ULTIMATE,🧠 CONTEXT INTELLIGENCE: SI; 🔬 DEEP TECH: NODE,nan,代表取締役,不明,0,0,16,0
+時代屋,42.8,ULTRA_ULTIMATE,🧠 CONTEXT INTELLIGENCE: SI; 🔬 DEEP TECH: NODE,nan,代表,jidai@breeze.dti.ne.jp,0,0,16,0
+株式会社　UNION CHO,42.8,ULTRA_ULTIMATE,🧠 CONTEXT INTELLIGENCE: SI; 🔬 DEEP TECH: NODE,nan,CEO,chono21@union-cho.co.jp,0,0,16,0
+グリーンアース株式会社,42.8,ULTRA_ULTIMATE,🧠 CONTEXT INTELLIGENCE: SI; 🔬 DEEP TECH: NODE,nan,プロデューサー,kaze@g-earth.asis,0,0,16,0
+株式会社のんき,42.8,ULTRA_ULTIMATE,🧠 CONTEXT INTELLIGENCE: SI; 🔬 DEEP TECH: NODE,nan,代表取締役社長,sadajpe@nonki-inc.jp,0,0,16,0
+株式会社MyBS,42.8,ULTRA_ULTIMATE,🧠 CONTEXT INTELLIGENCE: SI; 🔬 DEEP TECH: NODE,nan,代表取締役,kawai@mybs.biz,0,0,16,0
+株式会社まんがdeムービー,42.8,ULTRA_ULTIMATE,🧠 CONTEXT INTELLIGENCE: SI; 🔬 DEEP TECH: NODE,nan,取締役,hashimoto@manga-de-movie.com,0,0,16,0
+イラストレーターKAOS,42.8,ULTRA_ULTIMATE,🧠 CONTEXT INTELLIGENCE: SI; 🔬 DEEP TECH: NODE,nan,nan,tkazu@mtb.biglobe.ne.jp,0,0,16,0
+株式会社HELPFUL33,42.8,ULTRA_ULTIMATE,🧠 CONTEXT INTELLIGENCE: SI; 🔬 DEEP TECH: NODE,営業推進部,営業部長,suzukij@helpful33.co.jp,0,0,16,0
+株式会社フライパンズ,42.8,ULTRA_ULTIMATE,🧠 CONTEXT INTELLIGENCE: SI; 🔬 DEEP TECH: NODE,nan,代表取締役,adachi@theflyingpans.com,0,0,16,0
+株式会社イーソル エンベックス,42.0,ULTRA_ULTIMATE,🧠 CONTEXT INTELLIGENCE: SI; 🧠 CONTEXT INTELLIGENCE: サービス,お客様サービス部,マネージャー,v-yoshizawa@e-embex.com,0,0,22,0
+株式会社　studio A-CAT,40.8,ULTRA_ULTIMATE,🎯 ULTIMATE PATTERN: STUDIO; 🧠 CONTEXT INTELLIGENCE: SI,営業制作部,取締役部長,honda@a-act.co.jp,0,8,16,0
+セコム株式会社,40.0,ULTRA_ULTIMATE,🧠 CONTEXT INTELLIGENCE: SI; 🏢 TECH LOCATION: 渋谷,SI営業本部　プロジェクト推進部,担当課長,ju-itoi@secom.co.jp,0,0,16,0
+株式会社エクスクラフト,40.0,ULTRA_ULTIMATE,🧠 CONTEXT INTELLIGENCE: SI; 🏢 TECH LOCATION: 港区,企画制作部,部長,inaba@xcraft.jp,0,0,16,0
+株式会社エクスクラフト,40.0,ULTRA_ULTIMATE,🧠 CONTEXT INTELLIGENCE: SI; 🏢 TECH LOCATION: 港区,営業企画部,部長,bosyu@xcraft.jp,0,0,16,0
+株式会社ロココ,40.0,ULTRA_ULTIMATE,🧠 CONTEXT INTELLIGENCE: SI; 🏢 TECH LOCATION: 港区,nan,常務取締役,m_yoshihara@rococo.co.jp,0,0,16,0
+株式会社京風とまと,40.0,ULTRA_ULTIMATE,🧠 CONTEXT INTELLIGENCE: SI; 🏢 TECH LOCATION: 港区,nan,代表取締役　プロデューサー,mitani@kyotoma.co.jp,0,0,16,0
+イントループ株式会社,40.0,ULTRA_ULTIMATE,🧠 CONTEXT INTELLIGENCE: SI; 🏢 TECH LOCATION: 港区,nan,ディレクター,kawamoto@intloop.com,0,0,16,0
+株式会社コム,40.0,ULTRA_ULTIMATE,🧠 CONTEXT INTELLIGENCE: SI; 🏢 TECH LOCATION: 港区,総務部,部長,takeda@coming.co.jp,0,0,16,0
+株式会社D,40.0,ULTRA_ULTIMATE,🧠 CONTEXT INTELLIGENCE: SI; 🏢 TECH LOCATION: 港区,nan,代表取締役,t-akamatsu@d-ever.com,0,0,16,0
+ライズ株式会社,40.0,ULTRA_ULTIMATE,🧠 CONTEXT INTELLIGENCE: SI; 🏢 TECH LOCATION: 渋谷,首都圏営業部,営業,uezu@rize-i.com,0,0,16,0
+株式会社　愛があれば大丈夫,40.0,ULTRA_ULTIMATE,🧠 CONTEXT INTELLIGENCE: SI; 🏢 TECH LOCATION: 渋谷,nan,代表取締役,ug@daijobu.co.jp,0,0,16,0
+ライズ株式会社,40.0,ULTRA_ULTIMATE,🧠 CONTEXT INTELLIGENCE: SI; 🏢 TECH LOCATION: 渋谷,nan,代表取締役　CEO,io@rise-i.com,0,0,16,0
+ビットキャッシュ株式会社,40.0,ULTRA_ULTIMATE,🧠 CONTEXT INTELLIGENCE: SI; 🏢 TECH LOCATION: 渋谷,第一営業グループ,マネージャー,gen@bitcash.co.jp,0,0,16,0
+株式会社エムアールピー,39.2,ULTRA_ULTIMATE,🧠 CONTEXT INTELLIGENCE: SI; 📧 DOMAIN PATTERN: mrp-net.co.jp,営業部,nan,m-yabu@mrp-net.co.jp,0,0,16,0
+株式会社マーベラスAQL,38.9,ULTRA_ULTIMATE,🧠 CONTEXT INTELLIGENCE: SI; 🏢 TECH LOCATION: 品川,制作管理部,nan,kikuchim@maql.jp,0,0,16,0
+株式会社　マイライフ・ハウジング,37.8,ULTRA_ULTIMATE,🧠 CONTEXT INTELLIGENCE: SI; 🏢 TECH LOCATION: 中央区,受託営業本部,営業部長,y-seo@mylife-housing.co.jp,0,0,16,0
+株式会社CSプランニング,37.8,ULTRA_ULTIMATE,🧠 CONTEXT INTELLIGENCE: SI; 🏢 TECH LOCATION: 中央区,営業部,nan,satake@cs-p.co.jp,0,0,16,0
+株式会社　エム・エル・ビー,37.8,ULTRA_ULTIMATE,🧠 CONTEXT INTELLIGENCE: SI; 🏢 TECH LOCATION: 中央区,受託営業本部,営業部長,y-seo@mylife-housing.co.jp,0,0,16,0
+ヒューマンウェア株式会社,37.8,ULTRA_ULTIMATE,🧠 CONTEXT INTELLIGENCE: SI; 🏢 TECH LOCATION: 中央区,nan,所長,tokihito_tai@humanware-k.co.jp,0,0,16,0
+ビートレード・パートナーズ株式会社,37.8,ULTRA_ULTIMATE,🧠 CONTEXT INTELLIGENCE: SI; 🏢 TECH LOCATION: 新宿,nan,代表取締役,fujii@btdp.co.jp,0,0,16,0
+株式会社　DropWave,37.8,ULTRA_ULTIMATE,🧠 CONTEXT INTELLIGENCE: SI; 🏢 TECH LOCATION: 新宿,nan,代表取締役社長,yoshitaro_honjo_19780130@docomo.ne.jp,0,0,16,0
+株式会社テレウェイヴリンクス,37.8,ULTRA_ULTIMATE,🧠 CONTEXT INTELLIGENCE: SI; 🏢 TECH LOCATION: 新宿,パートナー推進室,室長,takashi.katano@telewavelinks.co.jp,0,0,16,0
+SSEホールディングス株式会社,37.8,ULTRA_ULTIMATE,🧠 CONTEXT INTELLIGENCE: SI; 🏢 TECH LOCATION: 中央区,営業部,nan,hiroyuki_kurita@ssehd.co.jp,0,0,16,0
+株式会社テレウェイヴリンクス,37.8,ULTRA_ULTIMATE,🧠 CONTEXT INTELLIGENCE: SI; 🏢 TECH LOCATION: 新宿,パートナー推進室,nan,takahiro.kimura@telewavelinks.co.jp,0,0,16,0
+株式会社ドッチ,37.8,ULTRA_ULTIMATE,🧠 CONTEXT INTELLIGENCE: SI; 🏢 TECH LOCATION: 目黒,営業部,部長,okumura@dotchi.co.jp,0,0,16,0
+株式会社ネイティブクリエイション,37.8,ULTRA_ULTIMATE,🧠 CONTEXT INTELLIGENCE: SI; 🏢 TECH LOCATION: 新宿,nan,代表取締役,keigo.takahashi@native-c.com,0,0,16,0
+株式会社ランアンドガン,37.8,ULTRA_ULTIMATE,🧠 CONTEXT INTELLIGENCE: SI; 🏢 TECH LOCATION: 新宿,nan,取締役,chabo@runandgun.co.jp,0,0,16,0
+株式会社ランアンドガン,37.8,ULTRA_ULTIMATE,🧠 CONTEXT INTELLIGENCE: SI; 🏢 TECH LOCATION: 新宿,nan,代表取締役,maruyama@runandgun.co.jp,0,0,16,0
+株式会社オーパス,37.8,ULTRA_ULTIMATE,🧠 CONTEXT INTELLIGENCE: SI; 🏢 TECH LOCATION: 新宿,nan,代表取締役,taka@opus.co.jp,0,0,16,0
+株式会社祥平館,37.8,ULTRA_ULTIMATE,🧠 CONTEXT INTELLIGENCE: SI; 🏢 TECH LOCATION: 新宿,nan,マネージャー,不明,0,0,16,0
+テクノバン株式会社,37.6,ULTRA_ULTIMATE,🧠 CONTEXT INTELLIGENCE: SI; 🏢 TECH LOCATION: 港区,nan,nan,不明,0,0,16,0
+株式会社ホープムーン,36.7,ULTRA_ULTIMATE,🧠 CONTEXT INTELLIGENCE: SI; 🏢 TECH LOCATION: 大阪,nan,代表取締役,mochi@hopemoon.com,0,0,16,0
+株式会社ベルウィール渋谷,36.4,ULTRA_ULTIMATE,🧠 CONTEXT INTELLIGENCE: サービス; 🧠 CONTEXT INTELLIGENCE: BPO; 🏢 TECH LOCATION: 渋谷,テレマーケティング事業部,nan,abe@bellwell.com,0,0,14,0
+株式会社ネクストロン,35.2,ULTRA_ULTIMATE,🎯 ULTIMATE PATTERN: トロン; 🎯 ULTIMATE PATTERN: ネクス; 🏢 TECH LOCATION: 港区,営業部,nan,ikegami.h@nextrony.com,0,16,0,0
+株式会社ネクストロン,35.2,ULTRA_ULTIMATE,🎯 ULTIMATE PATTERN: トロン; 🎯 ULTIMATE PATTERN: ネクス; 🏢 TECH LOCATION: 港区,営業部,nan,hokkyo.h@nextrony.com,0,16,0,0
+株式会社シー・スリー・コーポレーション,34.3,SUPER_HIGH,🧠 CONTEXT INTELLIGENCE: SI; 🏢 TECH LOCATION: 横浜,nan,アカウントマネージャー,suzuki@c3c.jp,0,0,16,0
+藤田観光株式会社,34.3,SUPER_HIGH,🧠 CONTEXT INTELLIGENCE: SI; 🏢 TECH LOCATION: 横浜,販売予約課　企画,チーフマネージャー,kikaku@yokohama-s-wh.com,0,0,16,0
+藤田観光株式会社,34.3,SUPER_HIGH,🧠 CONTEXT INTELLIGENCE: SI; 🏢 TECH LOCATION: 横浜,販売予約課,マネージャー,ueda@yokohama-s-wh.com,0,0,16,0
+藤田観光株式会社,34.3,SUPER_HIGH,🧠 CONTEXT INTELLIGENCE: SI; 🏢 TECH LOCATION: 横浜,販売予約課　企画,チーフマネージャー,kikaku@yokohama-s-wh.com,0,0,16,0
+藤田観光株式会社,34.3,SUPER_HIGH,🧠 CONTEXT INTELLIGENCE: SI; 🏢 TECH LOCATION: 横浜,販売予約課,マネージャー,ueda@yokohama-s-wh.com,0,0,16,0
+株式会社トラント,34.3,SUPER_HIGH,🧠 CONTEXT INTELLIGENCE: SI; 🏢 TECH LOCATION: 横浜,nan,営業アシスタント,a-nakano@trente.jp,0,0,16,0
+株式会社　ハウコム,33.2,SUPER_HIGH,🧠 CONTEXT INTELLIGENCE: SI; 🏢 TECH LOCATION: 川崎,管理本部,課長,m_takemoto@howcom.co.jp,0,0,16,0
+株式会社　ハウコム,33.2,SUPER_HIGH,🧠 CONTEXT INTELLIGENCE: SI; 🏢 TECH LOCATION: 川崎,管理本部,nan,takako_ishii@howcom.co.jp,0,0,16,0
+株式会社ビックカメラ,33.2,SUPER_HIGH,🧠 CONTEXT INTELLIGENCE: SI; 🏢 TECH LOCATION: 川崎,nan,nan,不明,0,0,16,0
+株式会社コスメル,32.8,SUPER_HIGH,🧠 CONTEXT INTELLIGENCE: ソリューション; 🏢 TECH LOCATION: 渋谷,ソリューション第二部,主任,anzai@cozmel.co.jp,0,0,12,0
+株式会社DEF.C,31.2,SUPER_HIGH,🧠 CONTEXT INTELLIGENCE: SI,nan,代表取締役,def.c-chou@ae.wakwak.com,0,0,16,0
+株式会社タスキブ,31.2,SUPER_HIGH,🧠 CONTEXT INTELLIGENCE: SI,nan,代表取締役,m_okada@taskiv.co.jp,0,0,16,0
+株式会社DEF.C,31.2,SUPER_HIGH,🧠 CONTEXT INTELLIGENCE: SI,nan,ゲームディレクター,t.saitou0329@gmail.com,0,0,16,0
+株式会社アルファ・ユニット,31.2,SUPER_HIGH,🧠 CONTEXT INTELLIGENCE: SI,nan,取締役,igarashi@alpha-unit.ne.jp,0,0,16,0
+労働保険事務組合富坂産業協会,31.2,SUPER_HIGH,🧠 CONTEXT INTELLIGENCE: SI,nan,事務局長,mizohata@tomisaka-s.com,0,0,16,0
+株式会社　マンテン,31.2,SUPER_HIGH,🧠 CONTEXT INTELLIGENCE: SI,nan,代表取締役,terada@manten2.com,0,0,16,0
+源株式会社,31.2,SUPER_HIGH,🧠 CONTEXT INTELLIGENCE: SI,nan,代表取締役,takeshita@geninc.jp,0,0,16,0
+四分弌,28.8,SUPER_HIGH,🧠 CONTEXT INTELLIGENCE: SI,nan,nan,matsumoto.shibuichi@gmail.com,0,0,16,0
+株式会社ユニマットライフ,28.8,SUPER_HIGH,🧠 CONTEXT INTELLIGENCE: SI,nan,ルートセールス,9550@nimat-life.co.jp,0,0,16,0
+Clock Dance Inc.,28.8,SUPER_HIGH,🧠 CONTEXT INTELLIGENCE: SI,nan,General　Manager,hirose@clockdance.com,0,0,16,0
+Clock Dance Inc.,28.8,SUPER_HIGH,🧠 CONTEXT INTELLIGENCE: SI,nan,代表取締役,wu@clockdance.com,0,0,16,0
+株式会社ビッグツリーキャピタル,26.9,SUPER_HIGH,🔬 DEEP TECH: API; 🏢 TECH LOCATION: 千代田,HR事業部,副部長,kentaro.saito@bt-capital.com,0,0,0,0
+株式会社ビッグツリーキャピタル,26.9,SUPER_HIGH,🔬 DEEP TECH: API; 🏢 TECH LOCATION: 千代田,HR事業部,シニアマネージャー,yoshio.onoda@bt-capital.com,0,0,0,0
+株式会社潮見サービス,20.9,HIGH_BREAKTHROUGH,🧠 CONTEXT INTELLIGENCE: サービス; 🏢 TECH LOCATION: 千代田,nan,取締役　相談役,ono@shiomi-s.com,0,0,6,0
+株式会社潮見サービス,20.9,HIGH_BREAKTHROUGH,🧠 CONTEXT INTELLIGENCE: サービス; 🏢 TECH LOCATION: 千代田,nan,保険部長,kuroda@shiomi-s.com,0,0,6,0
+株式会社潮見サービス,20.9,HIGH_BREAKTHROUGH,🧠 CONTEXT INTELLIGENCE: サービス; 🏢 TECH LOCATION: 千代田,nan,代表取締役,yazawa@shiomi-s.com,0,0,6,0
+株式会社ワールド情報,20.5,HIGH_BREAKTHROUGH,📧 DOMAIN PATTERN: world-info.co.jp; 🏢 TECH LOCATION: 千代田,nan,代表取締役,satake@world-info.co.jp,0,0,0,0
+株式会社デジターボ,20.4,HIGH_BREAKTHROUGH,🎯 ULTIMATE PATTERN: デジ,コンテンツ部,次長,t_shimada@digiturbo.co.jp,0,12,0,0
+株式会社アトラクティブ,18.9,HIGH_BREAKTHROUGH,🏢 TECH LOCATION: 渋谷; 🏢 TECH LOCATION: 恵比寿,コンテンツ事業部,責任者,soejima@attractive.co.jp,0,0,0,0
+株式会社リヴトラスト,18.9,HIGH_BREAKTHROUGH,🏢 TECH LOCATION: 港区; 🏢 TECH LOCATION: 六本木,営業２部,nan,不明,0,0,0,0
